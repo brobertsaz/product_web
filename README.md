@@ -1,4 +1,5 @@
 # README
+This is the frontend for the Rails API located at https://github.com/brobertsaz/product_api
 
 # SETUP
 
